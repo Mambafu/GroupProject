@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Group Project</string>
+    <string name="welcome">Welcome to Device Management System!</string>
+    <string name="rent">Rent</string>
+    <string name="return1">Return</string>
+    <string name="check">Check(Need Authorization)</string>
+    <string name="rentdevices">Rent Devices</string>
+    <string name="device_search">Devices</string>
+    <string name="empID">EMP ID</string>
+    <string name="device">Device</string>
+    <string name="availability">Availability</string>
+    <string name="empfirstname">EMPFirstName</string>
+    <string name="emplastname">EMPLastName</string>
+    <string name="rent_1">Rent</string>
+    <string name="rental_information1">Rental Information</string>
+    <string name="rentalID">Rental ID</string>
+    <string name="devicename">Device Name</string>
+    <string name="deviceID">Device ID</string>
+    <string name="empphone">EMPPhoneNumber</string>
+    <string name="issuedate">Issue Date</string>
+    <string name="done">Done</string>
+    <string name="returndevices">Return Devices</string>
+    <string name="backtomain">Back To Main Page</string>
+    <string name="return2">Return</string>
+    <string name="welcome_manager">Welcome! Manager.</string>
+    <string name="manager_ID">Manager ID</string>
+    <string name="password">Password</string>
+    <string name="login">LogIn</string>
+    <string name="hello_manager">Hello! Manager!</string>
+    <string name="inputEMPID">Please input EMPID you want to check</string>
+    <string name="gocheck">Check</string>
+    <string name="backtocheck">Check for other EMP</string>
+    <string name="return_date">Return Date</string>
+    <string name="checkforA">Check</string>
+    <string name="continue_renting">Continue Renting</string>
+    <string name="select_device">Select</string>
+</resources>
